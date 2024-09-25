@@ -6,3 +6,11 @@
 .navbar-sec .navbar a img{
     height: 50px;
 }
+.pill-div{
+    display: flex;
+    flex-direction: column;
+}
+.pill-div span{
+    width: fit-content;
+    margin-left: 20px;
+}
